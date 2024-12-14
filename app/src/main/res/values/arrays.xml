@@ -1,0 +1,18 @@
+<resources>
+    <!-- Array para Dificultades -->
+    <string-array name="difficulty_array">
+        <item>Todas</item>
+        <item>Dificultad muy baja</item>
+        <item>Dificultad baja</item>
+        <item>Dificultad media</item>
+        <item>Dificultad alta</item>
+    </string-array>
+
+    <!-- Array para Tiempos -->
+    <string-array name="time_array">
+        <item>Todos</item>
+        <item>Menos de 30 minutos</item>
+        <item>30-60 minutos</item>
+        <item>Más de 60 minutos</item>
+    </string-array>
+</resources>
